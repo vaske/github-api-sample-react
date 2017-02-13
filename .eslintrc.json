@@ -1,0 +1,5 @@
+{
+    "settings": {
+      "import/ignore": [".css$","node_modules/*"]
+    }
+}
